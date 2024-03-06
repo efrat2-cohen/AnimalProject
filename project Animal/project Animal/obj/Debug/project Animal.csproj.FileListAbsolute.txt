@@ -1,0 +1,6 @@
+C:\שנה ב\verisoft\project Animal\project Animal\bin\Debug\project Animal.exe.config
+C:\שנה ב\verisoft\project Animal\project Animal\bin\Debug\project Animal.exe
+C:\שנה ב\verisoft\project Animal\project Animal\bin\Debug\project Animal.pdb
+C:\שנה ב\verisoft\project Animal\project Animal\obj\Debug\project Animal.csprojAssemblyReference.cache
+C:\שנה ב\verisoft\project Animal\project Animal\obj\Debug\project Animal.exe
+C:\שנה ב\verisoft\project Animal\project Animal\obj\Debug\project Animal.pdb
